@@ -1,6 +1,6 @@
 {
   "name": "call-the-whole-thing-off",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "making if (a || b) easier",
   "main": "index.js",
   "devDependencies": {
@@ -9,6 +9,7 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
+  "repository": "eeeeeta/call-the-whole-thing-off",
   "author": "η (eeeeeta)",
   "license": "ISC"
 }

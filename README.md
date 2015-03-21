@@ -24,6 +24,8 @@ Through the magic of npm:
 ## How do I use it?
 It's simple!
 ```javascript
+var either = require('call-the-whole-thing-off');
+
 var a = "I'm an example!";
 var b = false;
 if (either(b, a)) {
@@ -49,3 +51,5 @@ $ npm test
 ```
 *(you might need to `npm install` first to install the `mocha` devDependency)*
 
+## What's the license?
+[ISC](http://opensource.org/licenses/ISC). I'm pretty relaxed about licensing anyway.
