@@ -14,6 +14,11 @@ if (a || b) {
 
 Well, *Let's Call the Whole Thing Off* is for you!
 
+## How do I download it?
+Through the magic of npm:
+[![NPM](https://nodei.co/npm/call-the-whole-thing-off.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/call-the-whole-thing-off/)
+
+
 ## How do I use it?
 It's simple!
 ```javascript
