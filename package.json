@@ -1,0 +1,11 @@
+{
+  "name": "call-the-whole-thing-off",
+  "version": "0.0.1",
+  "description": "making if (a || b) easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "η (eeeeeta)",
+  "license": "ISC"
+}
