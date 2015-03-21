@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "description": "making if (a || b) easier",
   "main": "index.js",
+  "devDependencies": {
+      "mocha": "*"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "author": "η (eeeeeta)",
   "license": "ISC"
